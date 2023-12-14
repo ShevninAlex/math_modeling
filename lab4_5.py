@@ -4,4 +4,4 @@ def square(fig, *args):
     if fig == 'square':
         s = a * b
     if fig == 'circle':
-        s = 
+        s = np.pi * (r ** r)
